@@ -1,4 +1,4 @@
-# CODE BOOK run_analysis.R
+# README run_analysis.R
 Christopher Marasco's Tidy Data Set (run_analysis.R) Script a la Getting and Cleaning Data Course Project
 
 ### We begin by downloading the data in order to identify the structure and format of the contents 
