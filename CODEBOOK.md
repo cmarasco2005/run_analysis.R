@@ -25,7 +25,7 @@ The dataset includes the following files:
 'y_test.txt': Test labels. dim() 2947 Observations 1 variable
 
 
-## Variable used for my script
+## Variables used for my script
 
 'activities' = 'activity_labels.txt'
 
